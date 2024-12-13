@@ -1,0 +1,1 @@
+This repository contains examples of common coding errors and their solutions. This specific example demonstrates an unclosed parenthesis in a Python function definition.  The bug file showcases the error, and the solution file provides the corrected code.
